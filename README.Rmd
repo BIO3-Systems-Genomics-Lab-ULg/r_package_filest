@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # FILEST <img src="man/figures/filest_logo.png" align="right" />
 
 <!-- badges: start -->
+[![Lifecycle: archived](https://img.shields.io/badge/lifecycle-archived-red.svg)](https://www.tidyverse.org/lifecycle/#archived)
 <!-- badges: end -->
 
 ```FILEST``` (Fine-Level Structure Simulator) is a population 
